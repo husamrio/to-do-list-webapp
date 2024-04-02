@@ -13,13 +13,13 @@ Welcome to our ToDo List Web App! This application helps you organize your tasks
 
 ## Screenshots
 
-![Screenshot 1](https://bit.ly/43K6Sad)
+![Screenshot 1](https://bit.ly/3J315TC)
 *Screenshot 1: Task list view*
 
-![Screenshot 2](https://bit.ly/3VHaw2w)
+![Screenshot 2](https://bit.ly/4cKb9Pd)
 *Screenshot 2: Adding a new task*
 
-![Screenshot 3](https://bit.ly/49lcklb)
+![Screenshot 3](https://bit.ly/3IYDxiV)
 *Screenshot 3: Editing a task*
 
 ## Getting Started
@@ -40,10 +40,7 @@ To get started with the ToDo List Web App, follow these steps:
 - CSS3
 - JavaScript (ES6+)
 - React.js
-- Node.js
-- Express.js
-- MongoDB
-- Bootstrap (for styling)
+
 
 ## Contributing
 
@@ -55,7 +52,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Special thanks to [Name] for the design inspiration.
+- Special thanks to [Dr Angela] for the design inspiration.
 - Hat tip to anyone whose code was used.
 - Images sourced from [Unsplash](https://unsplash.com/).
 
