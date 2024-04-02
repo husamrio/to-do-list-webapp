@@ -40,10 +40,11 @@ To get started with the ToDo List Web App, follow these steps:
 - CSS3
 - JavaScript (ES6+)
 - React.js
-- Node.js
-- Express.js
-- MongoDB
-- Bootstrap (for styling)
+- VERCEL (A cloud platform where the project was deployed).
+
+## Project Description
+
+The project description can be found in the <a target="_blank" href="https://docs.google.com/presentation/d/1BrxVKAcCwG_pXjQ7lfOa4YbExjeQ1CDlr_wtHXx3Dlg/edit#slide=id.g4dfce81f19_0_45">Google Slide</a> Link
 
 ## Contributing
 
