@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
   addButton.addEventListener("click", addTask);
   todoInput.addEventListener("keydown", function (event) {
     if (event.key === "Enter") {
-      event.preventDefault(); // Prevents the default behavior of the Enter key.
+      event.preventDefault(); // Stops the default action of the Enter key.
     }
   });
   deleteButton.addEventListener("click", deleteAllTasks);
