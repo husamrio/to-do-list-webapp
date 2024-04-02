@@ -26,7 +26,7 @@ Welcome to our ToDo List Web App! This application helps you organize your tasks
 
 To get started with the ToDo List Web App, follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/your/repository.git`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/husamrio/to-do-list-webapp.git`.
 
 2. **Install Dependencies**: Navigate to the project directory and install dependencies using `npm install`.
 
