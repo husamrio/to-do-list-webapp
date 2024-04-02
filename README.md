@@ -16,10 +16,10 @@ Welcome to our ToDo List Web App! This application helps you organize your tasks
 ![Screenshot 1](https://bit.ly/43K6Sad)
 *Screenshot 1: Task list view*
 
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 2](https://bit.ly/3VHaw2w)
 *Screenshot 2: Adding a new task*
 
-![Screenshot 3](/screenshots/screenshot3.png)
+![Screenshot 3](https://bit.ly/49lcklb)
 *Screenshot 3: Editing a task*
 
 ## Getting Started
