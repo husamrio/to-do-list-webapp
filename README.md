@@ -13,13 +13,13 @@ Welcome to our ToDo List Web App! This application helps you organize your tasks
 
 ## Screenshots
 
-![Screenshot 1](https://bit.ly/3J315TC)
+![Screenshot 1](https://github.com/husamrio/images/blob/master/Screenshot%202024-04-02%20150703.png)
 *Screenshot 1: Task list view*
 
-![Screenshot 2](https://bit.ly/4cKb9Pd)
+![Screenshot 2](https://github.com/husamrio/images/blob/master/Screenshot%202024-04-02%20150756.png)
 *Screenshot 2: Adding a new task*
 
-![Screenshot 3](https://bit.ly/3IYDxiV)
+![Screenshot 3](https://github.com/husamrio/images/blob/master/Screenshot%202024-04-02%20150810.png)
 *Screenshot 3: Editing a task*
 
 ## Getting Started
