@@ -39,7 +39,6 @@ To get started with the ToDo List Web App, follow these steps:
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- React.js
 - <a target="_blank" href="https://vercel.com">VERCEL</a> (A cloud platform where the project was deployed).
 
 ## Project Description
