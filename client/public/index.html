@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico">
+    <meta name="theme-color" content="#000000">
+    <meta name="description" content="Web site created using create-react-app">
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+    <title>To-Do List with React</title>
+</head>
+<body>
+    <section class="todo">
+        <h2>To-do list</h2>
+        <div class="input">
+            <input type="text" class="input-field" id="todoInput" placeholder="Add a new to do">
+            <button class="btn">Add</button>
+        </div>
+        <ul class="scroll">
+            <li id="todoList"></li>
+        </ul>
+        <div>
+            <hr class="counter">
+            <div class="counter-container">
+                <p><span id="todoCount">0</span> items total</p>
+                <button id="deleteButton">Delete All</button>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <div class="footer">
+            <p class="made-by">Made By</p>
+            <p class="author">Hussein Abdullahi</p>
+        </div>
+    </footer>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <script src="./script.js" defer></script>
+    <!--
+        This HTML file is a template.
+        If you open it directly in the browser, you will see an empty page.
+
+        You can add webfonts, meta tags, or analytics to this file.
+        The build step will place the bundled scripts into the <body> tag.
+
+        To begin the development, run `npm start` or `yarn start`.
+        To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+</body>
+</html>

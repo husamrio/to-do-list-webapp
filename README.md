@@ -56,9 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Special thanks to [Dr Angela] for the design inspiration.
-- Hat tip to anyone whose code was used.
-- Images sourced from [Unsplash](https://unsplash.com/).
+- Special thanks to my ALX mentors and fellow students.
 
 ---
 
